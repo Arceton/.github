@@ -1,6 +1,9 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Arceton/.github/main/assets/logo.png" alt="Arceton" width="420" />
+  <img
+    src="https://raw.githubusercontent.com/Arceton/.github/main/assets/logo.png"
+    alt="Arceton"
+    width="100%"
+  />
 
 
 Custom software · Digital platforms · Automation & AI · Systems integration
