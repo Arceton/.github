@@ -1,29 +1,37 @@
-# Arceton
+<div align="center">
 
-### Technology built around your business.
+<img src="https://raw.githubusercontent.com/Arceton/.github/main/assets/logo.png" alt="Arceton" width="420" />
 
-We design, build, and integrate digital solutions that help businesses operate smarter, scale faster, and grow sustainably.
 
-## What We Do
+Custom software · Digital platforms · Automation & AI · Systems integration
+Website   ·   LinkedIn   ·   Get in touch
+</div>
 
-- **Web Development** — Modern websites, e-commerce platforms, and web applications.
-- **Custom Software** — Tailored systems designed around real business needs.
-- **Automation & AI** — Intelligent workflows that reduce manual work and improve efficiency.
-- **Systems Integration** — Connecting platforms, tools, and business processes.
-- **Ongoing Support** — Continuous improvement, maintenance, and technical guidance.
 
-## Our Approach
+Your technology partner, from day one.
+At Arceton, we design, build, and evolve digital solutions around the way businesses actually work.
+From customer-facing platforms to the systems behind daily operations, we connect technology, processes, and people — creating practical solutions that are built to last.
+We don't sell disconnected features. We build the digital foundations businesses need to move forward.
 
-Discover. Build. Integrate. Evolve.
+What we build
+Digital experiences	Custom software
+Websites, e-commerce, customer portals, and digital products designed around real business goals.	Tailored applications and operational platforms that simplify complex workflows.
+Automation & AI	Integrations & infrastructure
+Intelligent processes that reduce repetitive work and help teams focus on what matters.	Connected tools, data flows, and dependable infrastructure that keep everything working together.
 
-We don't just deliver software. We become your technology partner.
 
-## Get in Touch
 
-🌐 [arceton.com](https://arceton.com)
+How we work
+01 — Discover	02 — Build	03 — Integrate	04 — Evolve
+Understand the business, its challenges, and its opportunities.	Create purposeful solutions with maintainability in mind.	Connect systems, data, and workflows into one experience.	Improve, support, and scale as the business grows.
 
-✉️ hello@arceton.com
 
----
 
-**Arceton — Your technology partner.**
+<div align="center">
+
+Let's build what comes next.
+Have a project, challenge, or idea worth exploring?
+Start a conversation →
+arceton.com  ·  Portugal
+<sub>ARCETON — DISCOVER · BUILD · INTEGRATE · EVOLVE</sub>
+</div>
